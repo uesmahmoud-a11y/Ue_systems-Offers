@@ -1,0 +1,6 @@
+{
+  "name": "Alafdl & Almoawen Quote System",
+  "description": "نظام سحابي متكامل لإصدار عروض الأسعار بنظامي (الأفضل) و (المعاون) مع مزامنة كاملة لقواعد البيانات وتحكم شامل في المنتجات والإعدادات.",
+  "version": "1.2.0-stable",
+  "requestFramePermissions": []
+}
